@@ -392,8 +392,4 @@ Save actual screenshots in the `screenshots` folder.
 
 ## GitHub Repository
 
-https://github.com/YOUR_USERNAME/nestjs-typeorm-crud
-
-## Deployment
-
-Not deployed — run locally using the setup instructions.
+https://github.com/Srikanth04081999/nestjs-typeorm-crud
